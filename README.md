@@ -5,4 +5,4 @@ RemindMe is an Android Mobile application that is going to help abuse victims be
 
 Developers: Julia Navarro, Karina Hernandez, Audrey Simpson, Daniel Rincon, Isaiah Beaudry
 
-Development Cycle time frame: Septtember 2023 - April 2023
+Development Cycle: September 2023 - April 2023

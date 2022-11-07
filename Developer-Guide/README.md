@@ -1,5 +1,5 @@
 # Project RemindMe
-=================
+------------------
 # Project RemindMe 
 
 How to use:
